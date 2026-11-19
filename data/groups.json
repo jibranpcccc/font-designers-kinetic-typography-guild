@@ -1,24 +1,5 @@
 [
   {
-    "id": "font-designers-kinetic-typography-guild-reddit-1",
-    "title": "r/MachineLearning Research",
-    "platform": "Reddit",
-    "category": "Machine Learning",
-    "memberCount": "2,900,000+ members",
-    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
-    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
-    "tags": [
-      "machine-learning",
-      "ai",
-      "research",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": true,
-    "lastUpdated": "2026-11-18"
-  },
-  {
     "id": "font-designers-kinetic-typography-guild-reddit-2",
     "title": "r/LocalLLaMA Open Models",
     "platform": "Reddit",
@@ -34,7 +15,27 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": false
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
+    "id": "font-designers-kinetic-typography-guild-reddit-1",
+    "title": "r/MachineLearning Research",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "research",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": false,
+    "lastUpdated": "2026-11-18"
   },
   {
     "id": "font-designers-kinetic-typography-guild-reddit-3",
